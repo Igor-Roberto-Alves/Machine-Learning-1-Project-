@@ -6,5 +6,5 @@ Os dados de ambos os datasets estão na pasta data
 Utilizamos para a tarefa de classificação o arquivo heart.csv e para regressão o flight.csv
 Ambos os datasets são do kaggle
 
-O arquivo final de Classificação é o ---.ipynb
-O arquivo final de Regressão é o Regressão_Final.ipynb
+O arquivo final de Classificação é o Relatório-HeartDataSet.ipynb
+O arquivo final de Regressão é o Regressao_Final.ipynb
